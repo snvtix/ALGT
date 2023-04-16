@@ -1,2 +1,2 @@
 # ALGT
-Prace laboratoryjne z przedmiotu ALgebra.
+Prace laboratoryjne z przedmiotu Algebra. Skupiały się one na poszerzaniu min. wiedzy dotyczącej macierzy. Wszystkie laboratoria były realizowane w śroowisku Matlab.
